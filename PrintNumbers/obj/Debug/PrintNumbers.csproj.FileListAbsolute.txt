@@ -1,0 +1,6 @@
+C:\Users\vancho\Desktop\C#\Homeworks\IntroProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\vancho\Desktop\C#\Homeworks\IntroProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\vancho\Desktop\C#\Homeworks\IntroProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\vancho\Desktop\C#\Homeworks\IntroProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\vancho\Desktop\C#\Homeworks\IntroProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\vancho\Desktop\C#\Homeworks\IntroProgramming\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
