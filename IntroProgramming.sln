@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintMyName", "PrintMyName\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{6448EAA4-2601-4A3A-A885-37B984261B26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{8B7904D1-255B-4E28-BBD6-1BEBC5475B4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6448EAA4-2601-4A3A-A885-37B984261B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6448EAA4-2601-4A3A-A885-37B984261B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6448EAA4-2601-4A3A-A885-37B984261B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7904D1-255B-4E28-BBD6-1BEBC5475B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7904D1-255B-4E28-BBD6-1BEBC5475B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7904D1-255B-4E28-BBD6-1BEBC5475B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7904D1-255B-4E28-BBD6-1BEBC5475B4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
